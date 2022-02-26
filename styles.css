@@ -1,0 +1,18 @@
+body {
+  background-color: skyblue;
+  text-align: center;
+  font-family: inherit;
+}
+
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 2px;
+  border-color: indigo;
+  width: 5%;
+}
+h2{
+  color: indigo;
+  font-style: bold;
+}
